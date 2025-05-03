@@ -33,6 +33,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
+<br />
+<br />
+
 ### 📊 Estatísticas
 
 <p>
