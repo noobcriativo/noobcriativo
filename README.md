@@ -18,7 +18,7 @@
 </p>
 <br />
 <br />
-
+<p>
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
@@ -52,5 +52,5 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
+</p>
 
