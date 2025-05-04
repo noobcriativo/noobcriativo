@@ -1,6 +1,6 @@
-## Noob Criativo
+## Hi 👋, I'm Noob Criativo
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 <img 
     align="left" 
     alt="HTML"
@@ -37,7 +37,7 @@
 <br>
 <br>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
